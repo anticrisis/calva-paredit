@@ -417,14 +417,14 @@
             },
             {
                 "command": "paredit.spliceSexpKillForward",
-                "key": "ctrl+alt+down",
-                "mac": "ctrl+alt+down",
+                "key": "alt+down",
+                "mac": "alt+down",
                 "when": "editorTextFocus"
             },
             {
                 "command": "paredit.spliceSexpKillBackward",
-                "key": "ctrl+alt+up",
-                "mac": "ctrl+alt+up",
+                "key": "alt+up",
+                "mac": "alt+up",
                 "when": "editorTextFocus"
             },
             {
